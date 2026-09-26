@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+Name: Mubarak Adebiyi
+File: index.html
+Date: 25 September 2026
+Description: Marking up a letter exercise for INFT1206 Assignment 1.
+-->
+
+<head>
+    <meta charset="utf-8">
+    <title>University Application Letter</title>
+</head>
+
+<body>
+
 Dr. Eleanor Gaye
 Awesome Science faculty
 University of Awesome
