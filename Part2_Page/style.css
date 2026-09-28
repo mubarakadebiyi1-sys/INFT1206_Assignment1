@@ -109,10 +109,12 @@ main {
 
 article {
   flex: 4;
+  padding: 10px;
 }
 
 aside {
   flex: 1;
+  padding: 10px;
 }
 
 aside a {
