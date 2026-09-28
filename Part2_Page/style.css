@@ -92,6 +92,7 @@ nav a {
   text-transform: uppercase;
   text-decoration: none;
   color: black;
+  padding: 5px;
 }
 
 nav a:hover,
